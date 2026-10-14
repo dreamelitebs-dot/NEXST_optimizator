@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose draws its own colors; the XML theme only hosts the window background -->
+    <style name="Theme.NetworkBooster" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/cyber_black</item>
+        <item name="android:statusBarColor">@color/cyber_black</item>
+        <item name="android:navigationBarColor">@color/cyber_black</item>
+    </style>
+</resources>

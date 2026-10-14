@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Network &amp; System Game Booster</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_vpn">VPN Tunnel (AmneziaWG)</string>
+    <string name="notif_channel_game">Game Mode</string>
+    <string name="notif_channel_hud">In-game HUD</string>
+    <string name="notif_vpn_title">AmneziaWG tunnel active</string>
+    <string name="notif_vpn_text">Game traffic optimized · Split tunneling: %1$s</string>
+    <string name="notif_game_title">Game Mode active</string>
+    <string name="notif_game_text">RAM cleaned · DND on · High QoS</string>
+    <string name="notif_action_stop">Stop Boost</string>
+
+    <!-- Permissions -->
+    <string name="perm_vpn_rationale">VPN permission is required to route game traffic through the AmneziaWG tunnel.</string>
+    <string name="perm_overlay_rationale">Display-over-other-apps permission enables the in-game FPS/Ping HUD.</string>
+    <string name="perm_usage_stats_rationale">Usage access permission lets the booster detect running games and kill background processes.</string>
+    <string name="perm_dnd_rationale">Do-Not-Disturb access mutes notifications while you play.</string>
+</resources>
